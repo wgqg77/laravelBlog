@@ -13,6 +13,7 @@
     <!-- Styles -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/jquery.dataTables.css" rel="stylesheet">
 
     <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -57,6 +58,7 @@
 <!-- Scripts -->
 <script src="/js/jquery-3.1.1.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.dataTables.js"></script>
 @yield('scripts')
 </body>
 </html>
